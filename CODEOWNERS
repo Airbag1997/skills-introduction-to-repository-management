@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Airbag1997
+/src/backend/database.py      @Airbag1997
+/src/backend/routers/auth.py  @Airbag1997
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Airbag1997
